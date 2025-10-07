@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Ola
 
-<!--
-**sq7alx/sq7alx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m focused on **AI applications**, **machine learning**, and **making tools I wish already existed** 🌞
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌕 Currently Working On
+- **Mobile app** with:
+  - a **real-time computer vision model** to detect hair type
+  - Integrated with a **RAG-based cosmetics recommender**
+    
+  *[MVP expected in late October]
+
+---
+
+## 🌗 Tech & Tools
+- **Languages & Frameworks:** Python, PyTorch, Tensorflow, Flask, Flutter  
+- **ML & AI:**
+  - computer vision (image classification, object detection & segmentation, OCR),
+  - RAG-based systems,
+  - fine-tuning LLMs,
+  - forecasting
+- **Other:** EDA, automation pipelines
+
+---
+
+## 🌑 Interests
+- amateur radio, electronics, astronomy & astrophysics
+- running, yoga, reading, crocheting
